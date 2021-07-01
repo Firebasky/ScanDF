@@ -32,7 +32,7 @@ python putenv-ld_ Preload.py module
 
 Test the function provided by the module, which can better bypass.
 
->参考：
+>reference resources：
 >
 >https://github.com/AntSwordProject/AntSword-Labs/tree/master/bypass_disable_functions
 >
